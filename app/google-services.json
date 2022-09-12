@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "374121649732",
+    "project_id": "hotelbooking-moneyyapp",
+    "storage_bucket": "hotelbooking-moneyyapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374121649732:android:b9b9e97c661dd943d3ce11",
+        "android_client_info": {
+          "package_name": "com.example.hotelbookingmoneyyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374121649732-4grhpbk07t2lme02c9b5v14diaunuk5n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6zvWi6lj0EVNZMJyR3dxKIkPbU4cOKgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374121649732-4grhpbk07t2lme02c9b5v14diaunuk5n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
